@@ -16,6 +16,8 @@
 <br />
 
 ### Languages and Tools:
-
-
-<br />
+-HTML
+-CSS
+-JavaScript
+-WEBPACK
+-Github
