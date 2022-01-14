@@ -17,7 +17,11 @@
 
 ### Languages and Tools:
 -HTML
+<br>
 -CSS
+<br>
 -JavaScript
--WEBPACK
+<br>
+-Webpack
+<br>
 -Github
