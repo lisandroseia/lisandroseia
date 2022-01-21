@@ -3,7 +3,7 @@
 ## I'm a Full stack web developer in procces!
 
 - 🔭 Looking for my first job
-- 🌱 urrently mastering javascript
+- 🌱 Currently mastering javascript
 - 👯 Open to collaborate with other coders
 - 🥅 2022 Goals: Work in a open source project
 
