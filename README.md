@@ -6,6 +6,7 @@
 - 🌱 Currently mastering javascript
 - 👯 Open to collaborate with other coders
 - 🥅 2022 Goals: Work in a open source project
+- 🆓 Available for hiring
 
 ### Connect with me:
 
