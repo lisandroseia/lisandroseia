@@ -1,6 +1,6 @@
 ### Hi there, I'm Lisandro seia 👋 
 
-## I'm a web developer!
+## I'm a Full stack web developer in procces!
 
 - 🔭 I am looking for my first job
 - 🌱 I’m currently mastering javascript
