@@ -2,10 +2,10 @@
 
 ## I'm a Full stack web developer in procces!
 
-- 🔭 I am looking for my first job
-- 🌱 I’m currently mastering javascript
-- 👯 I’m looking to collaborate with other coders
-- 🥅 2022 Goals: Work in a developers team
+- 🔭 Looking for my first job
+- 🌱 urrently mastering javascript
+- 👯 Open to collaborate with other coders
+- 🥅 2022 Goals: Work in a open source project
 
 ### Connect with me:
 
