@@ -1,6 +1,6 @@
 ### Hi there, I'm Lisandro seia 👋 
 
-## I'm a Full stack web developer in procces!
+## I'm a Front End web developer!
 
 - 🔭 Looking for my first job
 - 🌱 Currently mastering javascript
@@ -26,3 +26,5 @@
 -Webpack
 <br>
 -Github
+<br>
+-Jest
