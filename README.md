@@ -2,10 +2,6 @@
 
 ## I'm a Front End web developer!
 
-- 🔭 Looking for my first job
-- 🌱 Currently mastering javascript
-- 👯 Open to collaborate with other coders
-- 🥅 2022 Goals: Work in a open source project
 - 🆓 Available for hiring
 
 ### Connect with me:
