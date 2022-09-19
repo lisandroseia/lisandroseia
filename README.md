@@ -1,6 +1,8 @@
 ### Hi there, I'm Lisandro seia 👋 
 
-## I'm a Front End web developer!
+## I'm a full stack developer.
+
+I have experience working with React/typescript as a front-end developer, and knowledge to develop REST apis with RoR or MERN/MEVN stack
 
 - 🆓 Available for hiring
 
@@ -24,3 +26,17 @@
 -Github
 <br>
 -Jest
+<br>
+-Ruby
+<br>
+-RoR
+<br>
+-Node
+<br>
+-Express
+<br>
+-Vue
+<br>
+-API development
+<br>
+-MVC
