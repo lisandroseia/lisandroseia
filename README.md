@@ -2,8 +2,13 @@
 
 ## I'm a full stack developer.
 
-I have experience working with React/typescript as a front-end developer, and knowledge to develop REST apis with RoR or MERN/MEVN stack
+Hi there! I'm a self-taught front-end developer with experience working with Node, React, Sass, APIs, Redux, MUI, and other technologies. As a self-motivated learner, I've honed my skills by building projects, participating in online communities, and keeping up with industry trends.
 
+I've worked on a variety of projects, from small personal projects to large-scale applications, and I always strive to write clean, maintainable code that adheres to best practices. I'm particularly interested in creating intuitive user interfaces and exploring the intersection of design and development.
+
+In my free time, you can usually find me tinkering with new frameworks or contributing to open-source projects. I enjoy collaborating with other developers and learning from their expertise, as well as sharing my own knowledge and insights.
+
+I'm excited to continue growing as a developer and tackling new challenges, so feel free to reach out if you're interested in working together or just want to chat about code!
 - 🆓 Available for hiring
 
 ### Connect with me:
