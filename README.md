@@ -1,6 +1,6 @@
 ### Hi there, I'm Lisandro seia 👋 
 
-## I'm a full stack developer.
+## I'm a Front-end developer.
 
 Hi there! I'm a self-taught front-end developer with experience working with Node, React, Sass, APIs, Redux, MUI, and other technologies. As a self-motivated learner, I've honed my skills by building projects, participating in online communities, and keeping up with industry trends.
 
